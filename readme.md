@@ -1,7 +1,7 @@
 ## DATA
 
 ### Link to Dataset
-[See file](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
+[See file](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
 
 ### Data Dictionary
 | Column| Description|                   
