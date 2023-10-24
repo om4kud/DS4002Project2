@@ -1,7 +1,7 @@
 # DS 4002 Project 2
 
 ## Table of Contents
-[SRC](#SRC)  - This section contains all the source code for our project, which includes our the code for our EDA graphs and scripts for the [pretrained model](https://github.com/githubharald/SimpleHTR). The main files are main.py and model.py in the folder. The main.py file helps to run the model on an image to output what the handwritten text states and the model.py file contains the code for the model building.
+[SRC](#SRC)  - This section contains all the source code for our project, which includes the code for our EDA graphs and scripts for the [pretrained model](https://github.com/githubharald/SimpleHTR). The main files are main.py and model.py in the folder. The main.py file helps to run the model on an image to output what the handwritten text states and the model.py file contains the code for the model building.
 
 [DATASET](#Dataset)  - This section contains the IAM dataset which the model is trained on. 
 
