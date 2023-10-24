@@ -63,6 +63,7 @@ https://mahotas.readthedocs.io/en/latest/features.html.
 
 ### MI1 and MI2 Assignments
 MI1 Assigment: [https://docs.google.com/document/d/15kF4ldljKkB7TauAzlaOjv6WxM9HJWvKzsEGZzX-_34/edit?usp=sharing](https://docs.google.com/document/d/15kF4ldljKkB7TauAzlaOjv6WxM9HJWvKzsEGZzX-_34/edit?usp=sharing)
+
 MI2 Assignment: [https://docs.google.com/document/d/1gefyCpMglXhB2M0MZ3hF82AivXBM_BHLFKRwHv0fRO4/edit?usp=sharing](https://docs.google.com/document/d/1gefyCpMglXhB2M0MZ3hF82AivXBM_BHLFKRwHv0fRO4/edit?usp=sharing)
 
 
