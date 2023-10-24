@@ -43,8 +43,9 @@ The code can be used to replicate our deep-learning model or build upon it.
 ### Figures Table
 | Column| Description |                   
 |-------|------------|
-| Figure 1 | |
-| Figure 2 | |
+| Figure 1 | Figure 1 displays the frequency of certain gray level values in the IAM dataset. Gray levels are used in image preprocessing to describe the grayscale values of individual pixels in an image. It reveals the pixel’s brightness or intensity. A gray level of 0 corresponds to a completely black pixel and a gray level of 255 corresponds to a white pixel. The EDA revealed that 182 was the most common gray level, followed by 170 and 160. This means that a significant number of pixels in the dataset are likely to be brighter or lighter gray in the images.|
+| Figure 2 | We analyzed the sizes of the images in the folder 'a01-000u', which contains a full line of words from the greater a01 folder. The images have varying sizes, indicating that the words in each image are of different lengths, sizes, and shapes, adding to the diversity of the dataset. Additionally, although there are some images that are very small (close to 100), there are other images that are large (past 40,000 pixels), indicating that there is a large range of image sizes in this subfolder of the dataset.|
+| Figure 3 | We analyzed the texture of all the images in the 'a01-000u' folder. We used the Mahotas library [4] to gain insight on the Haralick textural features we could derive across all 52 of these images in the folder. We found that the average sum variance was 25,000, which is very high, indicating that there is a great deal of diverse and varied textural patterns in this folder of the dataset.  The average sum of squares being at approximately 7,000 indicates that the images have textural patterns that have differing degrees of contrast, meaning that the gray-level pairs in the images have an increased amount of spread. |
 
 
 
